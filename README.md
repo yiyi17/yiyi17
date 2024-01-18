@@ -4,3 +4,7 @@
 <!-- <img src="https://img.shields.io/badge/go-blue.svg" /> -->
 
 ![yiiy17's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiyi17&theme=onedark)
+
+### who am i
+
+- JavaScript lover

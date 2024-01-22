@@ -8,3 +8,5 @@
 ### who am i
 
 - JavaScript lover
+- Nodejs lover
+- 5 年技术管理
